@@ -53,8 +53,8 @@
 
 ### 🚀 Featured Project
 
-#### 📌 Smart Queue Management System
-A web-based queue management system built using React and Firebase.
+#### 📌 Smart AI bot testing System
+A web-based AI bot management and testing system built using React and Firebase.
 
 **Features:**
 * ⚡ Real-time queue updates
