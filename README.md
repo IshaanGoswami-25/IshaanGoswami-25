@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ishaan Goswami</h1>
+<h3 align="center">Full Stack & Flutter Developer in Progress</h3>
 
-<!--
-**IshaanGoswami-25/IshaanGoswami-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures-blue?style=for-the-badge" alt="DSA" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **B.Tech CSE (AI & ML)** Student
+- 🚀 Passionate about **Web Development, Data Structures & Algorithms, and AI/ML**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📚 Currently Learning
+
+* ⚡ Next.js
+* 🎨 Tailwind CSS
+* ☕ Java + DSA
+* 🐳 Docker (Basic)
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,java,c,cpp,python,git,github,vscode,figma" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+#### 📌 Smart Queue Management System
+A web-based queue management system built using React and Firebase.
+
+**Features:**
+* ⚡ Real-time queue updates
+* 📊 Admin Dashboard
+* 🔒 User Authentication
+* 📱 Responsive UI
+* 🔥 Firebase Integration
+
+* 🔗 **GitHub Repository:** [Repo Link](https://github.com/IshaanGoswami-25/project-repo)
+* 🌐 **Live Demo:** [Live Link]((https://task-os-smoky.vercel.app/))
+
+---
+
+### 🎯 Goals
+
+* 🔲 Master React
+* 🔲 Learn MERN Stack
+* 🔲 Solve 300+ LeetCode problems
