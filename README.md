@@ -10,7 +10,7 @@
 ---
 
 - 🎓 **B.Tech CSE (AI & ML)** Student
-- 🚀 Passionate about **Web Development, Data Structures & Algorithms, and AI/ML**
+- 🚀 Passionate about **Mobile Development, Data Structures & Algorithms, and AI/ML**
 
 ---
 
@@ -72,4 +72,4 @@ A web-based AI bot management and testing system built using React and Firebase.
 
 * 🔲 Master React
 * 🔲 Learn MERN Stack
-* 🔲 Solve 300+ LeetCode problems
+* 🔲 Solve 300+ Programming problems across different platforms
